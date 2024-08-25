@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Site Blocker",
+  "description": "an extension to block sites",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "siteblock.jpg"
+  }
+}
